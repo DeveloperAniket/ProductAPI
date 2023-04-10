@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/obj/src.csproj.nuget.dgspec.json
+/src/obj/project.nuget.cache
+*.vsidx
+/.vs/ProductApi/v17/.suo
+/.vs/ProductApi/DesignTimeBuild/.dtbcache.v2
+/src/obj/project.assets.json
