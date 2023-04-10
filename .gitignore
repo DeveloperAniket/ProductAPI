@@ -8,3 +8,7 @@
 /.vs/ProductApi/v17/.suo
 /.vs/ProductApi/DesignTimeBuild/.dtbcache.v2
 /src/obj/project.assets.json
+/src/obj/Release/net6.0
+/src/obj/Debug/net6.0/src.assets.cache
+/src/obj/Debug/net6.0/src.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/slnx.sqlite
