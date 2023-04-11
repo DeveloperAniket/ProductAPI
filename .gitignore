@@ -12,3 +12,8 @@
 /src/obj/Debug/net6.0/src.assets.cache
 /src/obj/Debug/net6.0/src.GeneratedMSBuildEditorConfig.editorconfig
 /.vs/slnx.sqlite
+/.vs/ProductApi/FileContentIndex/8f79df2e-76c6-4dbc-8fc0-41c0b82abd08.vsidx
+/src/bin/*.*
+/src/bin/Debug/net6.0/*.*
+/src/bin/Debug/*.*
+/src/bin/Debug/net6.0/*

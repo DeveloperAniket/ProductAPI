@@ -17,6 +17,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ProductService.ProductAPI;
+using src.Extension;
 
 namespace ProductService.ProductAPI
 {
@@ -108,6 +109,8 @@ namespace ProductService.ProductAPI
 
                 });
             });
+
+            services.AddElasticSearch(Configuration);
 
 
         }
